@@ -4,6 +4,7 @@ public class Prueba1{
     public static void main(String[] args) {
 
         int num;
+
         int positive = 0;
 
 
@@ -19,3 +20,4 @@ public class Prueba1{
         System.out.println("Positivos " +positive);
     }
 }
+
