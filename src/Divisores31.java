@@ -11,7 +11,7 @@ public class Divisores31 {
 
         for (int i = 1; i <= num1; i++) {
             if (num1 % i == 0) {
-                System.out.println(+num1+ " és divisor de " +i);
+                System.out.println(+i+ " és divisor de " +num1);
             }
         }
 
